@@ -1,7 +1,11 @@
 ### Informe-7
 
 #1. OBJETIVOS
+
+
 #1.2 OBJETIVOS ESPECÍFICOS:
+
+
 #2. MARCO TEORICO
 
 ![1](https://user-images.githubusercontent.com/105374427/185025498-82bb3c3c-8312-4e6f-8d32-a7cb508b6edf.png)
@@ -52,4 +56,4 @@
 
 ![24](https://user-images.githubusercontent.com/105374427/185025534-146406a9-d79b-4e96-b6a8-9e5623725015.png)
 
-  
+  EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
